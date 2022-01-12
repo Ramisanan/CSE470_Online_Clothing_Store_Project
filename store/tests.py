@@ -1,4 +1,4 @@
-from _typeshed import Self
+# from _typeshed import Self
 from django.http import response
 from django.urls import reverse, resolve
 from django.test import TestCase, Client
