@@ -1,0 +1,2 @@
+# CSE470_Online_Clothing_Store_Project
+Django is a well-known open-source Python-based web framework. It is intended to make it easier to create complex, database-driven websites by using reusable pluggable components. Django is well-known for its use on websites such as Online shopping Store. In this project, I created a Django website to host my own Online Clothing Store, which allows customers to purchase products. Aside from Django for the main functionality, I enhanced the user experience with HTML, CSS, and Javascript.
